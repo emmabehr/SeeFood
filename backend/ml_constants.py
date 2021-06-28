@@ -1,0 +1,4 @@
+IMAGE_WIDTH = 200
+IMAGE_HEIGHT = 200
+MODEL_PATH = 'model'
+CLASSES_PATH = 'classes.pickle'
